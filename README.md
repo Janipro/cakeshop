@@ -1,2 +1,2 @@
-# csharpshop
-CakeShop made in C#
+# C#Shop
+CakeShop application transformed from Java to C#.
