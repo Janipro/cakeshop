@@ -1,2 +1,2 @@
-# Cake Shop
-A cake shop sells cakes. It needs to take care of customers, the cakes it can produce as well as orders being placed.
+# Cakeshop
+This code is used to simulate running a shop selling cakes. Customers can place orders and the shop will take care of delivery. Written in 90 minutes.
